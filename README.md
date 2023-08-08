@@ -1,16 +1,11 @@
-# random_restaurants
+# Random Restaurants
 
-A new Flutter project.
+an app that shows a restaurant randomly from a list onPressd in Flutter
 
-## Getting Started
+## screenshot
+![random_restaurants](https://github.com/merihcavdar/random_restaurants/assets/84540989/aa3cc9aa-4ae0-4330-8544-15f6e288932f)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- darth:math -> Random().nextInt() usage
+- ElevatedButton
+- List usage
